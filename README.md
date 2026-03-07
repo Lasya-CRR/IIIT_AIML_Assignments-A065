@@ -1,1 +1,1 @@
-# IIIT_AIML_Assingnments-A065-
+# IIIT_AIML_Assignments-A065
